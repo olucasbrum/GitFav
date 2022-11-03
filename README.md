@@ -5,7 +5,7 @@
  ## Nesse projeto tive como aprendizado:
  
 - Classes
-- Asynchronism com async...wait
+- Asynchronism com async wait
 - fetch API
 - GitHub API
 - localstorage
