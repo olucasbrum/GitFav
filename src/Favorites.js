@@ -33,6 +33,7 @@ export class Favorites {
       this.entries = [user, ...this.entries]
       this.update()
       this.save()
+      
     } catch (error) {
       alert(error.message)
     }
